@@ -9,6 +9,7 @@ Specialized in:
 - Web design and full-stack development programming: JS, HTML, CSS, Python Django, Node JS, PostgreSQL
 - Machine Learning, Deep Learning and ANN: Python Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Pytorch, OpenCV, Ultralytics Yolo...
 - 3D modeling, animations, sculpting: Blender, Autodesk Maya
+- Blender Geometry nodes specialist
   
 Currently learning:
 - React JS, TypeScript
