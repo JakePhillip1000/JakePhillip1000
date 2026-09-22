@@ -1,4 +1,4 @@
-<h1 style = "font-family: Tahoma; font-size: 30px; color: magenta">I'm Jake Phillip</h1>
+<h1 style = "font-family: Tahoma; font-size: 30px; color: magenta">I'm Jake Phillip --> Unity engine game programmer, 3d modeling && animator</h1>
 
 Specialized in:
 - Game Development using Unity and Unreal Engine 5
